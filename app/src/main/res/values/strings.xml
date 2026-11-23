@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="steps">Steps</string>
+    <string name="calories">Calories (kcal)</string>
+    <string name="distance">Distance</string>
+    <string name="reset">Reset today</string>
+    <string name="sensor_starting">Starting sensor...</string>
+    <string name="sensor_step_counter">Sensor: step counter</string>
+    <string name="sensor_step_detector">Sensor: step detector</string>
+    <string name="sensor_accelerometer">Sensor: accelerometer</string>
+    <string name="sensor_unavailable">No suitable sensor is available</string>
+    <string name="permission_required">Activity permission is required</string>
+</resources>
+

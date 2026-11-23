@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Трекер активності</string>
+    <string name="steps">Кроки</string>
+    <string name="calories">Калорії (ккал)</string>
+    <string name="distance">Дистанція</string>
+    <string name="reset">Скинути за сьогодні</string>
+    <string name="sensor_starting">Запуск датчика...</string>
+    <string name="sensor_step_counter">Датчик: лічильник кроків</string>
+    <string name="sensor_step_detector">Датчик: детектор кроків</string>
+    <string name="sensor_accelerometer">Датчик: акселерометр</string>
+    <string name="sensor_unavailable">Відповідний датчик недоступний</string>
+    <string name="permission_required">Потрібен дозвіл на фізичну активність</string>
+</resources>
+
